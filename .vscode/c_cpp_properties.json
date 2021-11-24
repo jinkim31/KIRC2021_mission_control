@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/robit/catkin_ws/src/mission_control/include/**",
+        "/home/robit/catkin_ws/src/scuedk_test/include/**",
+        "/home/robit/catkin_ws/src/serial/include/**",
+        "/home/robit/catkin_ws/src/sim_env/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

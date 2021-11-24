@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robit/catkin_ws/src/mission_control/cmake-build-debug/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: mission_control
+Description: Description of mission_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lgomp
+Requires: roscpp std_msgs
